@@ -1,17 +1,17 @@
-# Cyber Log Analysis Lab
+# Using Nontraditional Vulnerability Scanning Tools
 
 ## Purpose
-This project demonstrates security log analysis skills aligned with CySA+ certification and Jr. IT Audit / GRC roles.
+The focus of this lab is the tools not traditionally considered vulnerability scanners, but which can absolutely detect and identify vulnerabilities.
 
 ## Tools Used
-- Splunk
-- Windows Event Logs
-- MITRE ATT&CK framework
-
+- Kali Linux
+- Burp Suite
+  
 ## Projects Included
-1. Failed login investigation
-2. Suspicious IP tracking
-3. After-hours login analysis
-
+1. Run vulnerability scans using nmap
+2. Implement vulnerability scanning methods and concepts
+3. Analyze output from vulnerability assessment tools
+4. Analyze data to prioritize vulnerabilities
+   
 ## Why This Matters
 These exercises show ability to detect threats, analyze controls, and document findings for audit teams.
